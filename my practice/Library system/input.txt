@@ -1,0 +1,4 @@
+abc russel 8 3
+cde nihal 7 3
+efg provat 9 3
+ghi salem 10 2

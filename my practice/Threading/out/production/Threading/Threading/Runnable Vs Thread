@@ -1,0 +1,21 @@
+Which approach is better?
+-> If we extend a thread, we cannot extend any other class, usually a big disadvantage
+-> But a class can implements more than one interfaces, so, implementing runnable will cause no restriction
+   to extend any class now or later.
+   -->Runnable object needs to be passed to a Thread instance to run in separate thread
+
+
+Run vs Start:
+
+start()
+->Purpose: Starts a new thread of execution by invoking the run() method in a separate call stack.
+->How it works: The start() method is defined in the Thread class. When called, it performs the following:
+    1.Allocates a new thread.
+    2.Calls the run() method of the associated Runnable or the overridden run() in the Thread class in a new thread.
+->Concurrency: Runs the run() method concurrently in a new thread.
+
+run()
+->Purpose: Contains the actual code that will execute when the thread runs. If you call run() directly, it will not start a new thread
+           but instead execute the code on the current thread.
+->How it works: It's just a method, like any other, and runs in the same thread that called it.
+->Concurrency: Does not involve a new thread.

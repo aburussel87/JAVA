@@ -1,0 +1,8 @@
+pk,skraj,10,10,1
+batman,dc,10,12,12
+loveria,rithad,1,3,2
+bhool bhulaiya,skfilm,5,5,5
+sex in the city,pornhub,5,5,5
+Don no.1,mirchi,3,4,3
+hi baby,mirchi,3,4,4
+the mummy,egypt,4,5,4

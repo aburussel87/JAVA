@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Goal.iml" filepath="$PROJECT_DIR$/Goal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance practice/Inheritance practice.iml" filepath="$PROJECT_DIR$/Inheritance practice/Inheritance practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movie collection/movie collection.iml" filepath="$PROJECT_DIR$/movie collection/movie collection.iml" />
+    </modules>
+  </component>
+</project>
